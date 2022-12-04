@@ -1,3 +1,4 @@
+<br></br>
 # 6-1 날짜/시간 예약 앱 만들기 
 * 타이머 기능 : <예약 시작>과 <예약 완료>를 클릭하면 크로노미터가 타이머로 동작한다. 
 * 날짜/시간 설정 : <날짜설정>과 <시간 설정>을 클릭하면 예약 날짜와 시간을 변경할 수 있다. 
@@ -44,17 +45,17 @@
 
 ### 첫 화면 설정
 <br></br>
-<img src="img/img1.png">
+<img src="img/img1.png" width="200" height="500">
 <br></br>
 
 ### 라디오 버튼 선택시 뜨는 화면 
 <br></br>
-<img src="img/img2.png">
+<img src="img/img2.png" width="200" height="500">
 <br></br>
 
 ### 예약 시작 누른 후, 예약 완료 후 화면 
 #### 예약에 걸린 시간이 상단에 뜨고 하단 텍스트 뷰에 예약된 시간이 입력된다. 
 <br></br>
-<img src="img/img3.png">
+<img src="img/img3.png" width="200" height="500">
 
 
