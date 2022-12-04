@@ -43,13 +43,9 @@
 ## 실행 결과 
 <br></br>
 
-### 첫 화면 설정
+### 첫 화면 설정 및 라디오 버튼 선택시 뜨는 화면
 <br></br>
 <img src="img/img1.png" width="200" height="500">
-<br></br>
-
-### 라디오 버튼 선택시 뜨는 화면 
-<br></br>
 <img src="img/img2.png" width="200" height="500">
 <br></br>
 
