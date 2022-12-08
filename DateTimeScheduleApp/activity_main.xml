@@ -12,6 +12,7 @@
         android:layout_height="wrap_content"
         android:orientation="vertical">
 
+        <!-- 00:00과 같이 출력되도록 크로노미터 형식을 설정한다. -->
         <Chronometer
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -44,11 +45,13 @@
             android:text="시간 설정"/>
     </RadioGroup>
 
+    <!-- 캘린더뷰가 포함된 리니어레이아웃이 나머지 높이를 꽉 채우도록 layout_weight를 1로 설정한다 -->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1">
 
+        <!-- 캘린더뷰와 타임피커가 동시에 들어가도록 프레임레이아웃을 설정한다. -->
         <FrameLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent">
@@ -77,6 +80,7 @@
             android:id="@+id/btnEnd"
             android:text="예약완료"/>
 
+        <!-- 총 8개의 텍스트뷰를 추가한다.  -->
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

@@ -43,15 +43,17 @@
 ## 실행 결과 
 <br></br>
 
-### 첫 화면 설정 및 라디오 버튼 선택시 뜨는 화면
+### 첫 화면 설정 및 날짜 설정 버튼, 시간 설정 버튼 선택시 뜨는 화면
 <br></br>
 <img src="img/img1.png" width="200" height="500">
-<img src="img/img2.png" width="200" height="500">
+<img src="img/img2.png" width="220" height="500">
+<img src="img/img3.png" width="210" height="500">
+
 <br></br>
 
 ### 예약 시작 누른 후, 예약 완료 후 화면 
 #### 예약에 걸린 시간이 상단에 뜨고 하단 텍스트 뷰에 예약된 시간이 입력된다. 
 <br></br>
-<img src="img/img3.png" width="200" height="500">
-
+<img src="img/img4-1.png" width="220" height="500">
+<img src="img/img5.png" width="220" height="500">
 
