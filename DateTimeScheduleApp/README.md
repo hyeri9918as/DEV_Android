@@ -47,7 +47,7 @@
 <br></br>
 <img src="img/img1.png" width="200" height="500">
 <img src="img/img2.png" width="220" height="500">
-<img src="img/img3.png" width="210" height="500">
+<img src="img/img3.png" width="215" height="500">
 
 <br></br>
 
